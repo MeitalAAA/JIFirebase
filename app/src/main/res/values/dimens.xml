@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="app_margin">16dp</dimen>
+    <dimen name="listItem">20dp</dimen>
+    <dimen name="btn_padding">2dp</dimen>
+    <dimen name="app_half_margin">8dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JIFirebase</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="title_activity_login">התחבר</string>
+    <string name="prompt_email">מייל</string>
+    <string name="prompt_password">סיסמא (אופציונלי)</string>
+    <string name="action_sign_in">התחבר או הרשם</string>
+    <string name="action_sign_in_short">התחבר</string>
+    <string name="error_invalid_email">האימייל אינו תקין</string>
+    <string name="error_invalid_password">הסיסמא קצרה מידי</string>
+    <string name="error_incorrect_password">הסיסמא אינה נכונה</string>
+    <string name="error_field_required">חובה למלא את השדה הזה</string>
+    <string name="add">הוסף</string>
+    <string name="action_login">התחבר</string>
+    <string name="action_logout">התנתק</string>
+    <string name="edit">ערוך</string>
+    <string name="remove">הסר</string>
+</resources>

@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "597531401339",
+    "firebase_url": "https://jifirebase-40da7.firebaseio.com",
+    "project_id": "jifirebase-40da7",
+    "storage_bucket": "jifirebase-40da7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597531401339:android:24c1bd8aa0a1635c",
+        "android_client_info": {
+          "package_name": "com.arye.meital.jifirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597531401339-29ihu2tjoplhso9118qffbp98i0si7us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arye.meital.jifirebase",
+            "certificate_hash": "dc4e59660fa3cae46c50a876c9e74e6405d92d82"
+          }
+        },
+        {
+          "client_id": "597531401339-rcnbnp1u01b7b6u8tc3dj668mp2dib4j.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "597531401339-rcnbnp1u01b7b6u8tc3dj668mp2dib4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Sh5FIx8Zr2rqPEZZlOR5ghk517VfQS8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597531401339-rcnbnp1u01b7b6u8tc3dj668mp2dib4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
